@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
 <pre>
 name:              Dachi Sebiskveradze
 location:          New York
@@ -10,9 +10,7 @@ open_to:           Contract and full time work
 technologies:      Angular · React · C# · ASP.NET · .NET · EF Core
 </pre>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td width="50%" align="center" valign="middle">
       <a href="https://Dachiseb.pythonanywhere.com/link">
         <img src="https://Dachiseb.pythonanywhere.com" alt="Current Spotify Song" />
       </a>
